@@ -1,0 +1,4 @@
+// project-root/build.gradle
+plugins {
+    id 'java'
+}
